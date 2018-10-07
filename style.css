@@ -1,0 +1,29 @@
+.top {
+    background: maroon;
+    height: 200px;
+    border: 1px solid black;
+}
+
+.bottom {
+    height: 120px;
+    border: 1px solid black;
+}
+
+.item-title {
+    color: maroon;
+    margin-top: 0;
+    margin-left: 10px;
+    padding-top: 10px;
+}
+
+.cutted-price {
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+.discounted-price {
+    font-size: 20px;
+    margin-right: 10px;
+    color: maroon;
+    font-style: italic;
+}
