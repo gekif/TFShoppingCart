@@ -1,12 +1,30 @@
+.noPadding {
+    padding: 0;
+}
+
+body {
+    background: #e6e6e6;
+}
+
+.container {
+    background: white;
+}
+
+.single-item {
+    height: 320px;
+    border: 1px solid silver;
+    box-shadow: 0 0 5px gray;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
 .top {
     background: maroon;
     height: 200px;
-    border: 1px solid black;
 }
 
 .bottom {
-    height: 120px;
-    border: 1px solid black;
+    height: 100px;
 }
 
 .item-title {
@@ -27,3 +45,4 @@
     color: maroon;
     font-style: italic;
 }
+
